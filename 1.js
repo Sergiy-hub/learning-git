@@ -1,4 +1,4 @@
-function addNumber(a,b){
-	return a + b;
+function dedurNumber(a,b){
+	return a - b;
 
 }
